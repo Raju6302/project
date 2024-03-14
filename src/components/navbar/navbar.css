@@ -1,0 +1,38 @@
+.navbar-container {
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.company-logo {
+    width: 150px;
+    height: 70px ;
+    margin-left: 20px;
+    display: flex;
+   align-items: center; 
+}
+
+.attica-logo {
+    width: 150px;
+}
+
+.sub-container{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-login,
+.page-close {
+    width: 100px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.page-close{
+    width: 150px; 
+}

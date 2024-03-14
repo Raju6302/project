@@ -1,0 +1,6 @@
+.sidebar-container {
+    display: inline-block;
+    width: 200px;
+    height: 100vh;
+    background-color: bisque;
+}
